@@ -1,5 +1,9 @@
 # cloudflare-dns-manager
  20240828
+>> BASH
+```
+cp cloudflare_credentials.org cloudflare_credentials
+```
 
 >> Go Language
 ```

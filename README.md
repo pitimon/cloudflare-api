@@ -3,9 +3,10 @@
 - [Cloudflare User API Token](https://dash.cloudflare.com/profile/api-tokens)
 ---
 
->> BASH
+>> Before use
 ```
 cp cloudflare_credentials.org cloudflare_credentials
+cp go/cloudflare_credentials-master.json go/cloudflare_credentials.json 
 ```
 ---
 >> Go Language

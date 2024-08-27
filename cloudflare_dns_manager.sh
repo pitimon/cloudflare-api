@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Load credentials from external file
-if [ -f "./cloudflare_credentials.sh" ]; then
-    source ./cloudflare_credentials.sh
+if [ -f "./cloudflare_credentials" ]; then
+    source ./cloudflare_credentials
 else
-    echo "Error: cloudflare_credentials.sh file not found!"
+    echo "Error: cloudflare_credentials file not found!"
     echo "Please create this file with the following content:"
     echo "AUTH_EMAIL='your_email@example.com'"
     echo "AUTH_KEY='your_api_key'"

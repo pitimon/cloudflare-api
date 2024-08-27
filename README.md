@@ -1,5 +1,5 @@
 # cloudflare-dns-manager
- 20240828
+---
 [Cloudflare User API Token](https://dash.cloudflare.com/profile/api-tokens)
 ---
 

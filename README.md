@@ -1,7 +1,7 @@
 # cloudflare-dns-manager
  20240828
 
->> in go path
+>> Go Language
 ```
 cd go
 ```

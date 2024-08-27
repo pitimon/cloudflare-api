@@ -1,6 +1,6 @@
 # cloudflare-dns-manager
 ---
-[Cloudflare User API Token](https://dash.cloudflare.com/profile/api-tokens)
+- [Cloudflare User API Token](https://dash.cloudflare.com/profile/api-tokens)
 ---
 
 >> BASH
